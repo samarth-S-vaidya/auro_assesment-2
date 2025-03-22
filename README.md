@@ -54,6 +54,7 @@ Enhance the Exchange section with:
 - A **mentor badge** is awarded for consistent guidance.  
 - Exchange contributions **convert into Auro Coins**, usable for unlocking premium content.  
 
+A WireFrame Image is attached along with the README file.
 ---
 
 # 2. Product Analysis:-
@@ -66,13 +67,13 @@ Enhance the Exchange section with:
 ## **Product Improvement Report – Auro.Edu**  
 
 ## **Key Areas of Focus:**  
-1. **UI/UX Enhancements** (for mobile & web)  
-2. **User Engagement & Retention Strategies**  
-3. **Monetization Optimization**  
+i. **UI/UX Enhancements** (for mobile & web)  
+ii. **User Engagement & Retention Strategies**  
+iii. **Monetization Optimization**  
 
 ---
 
-## **1. UI/UX Enhancements – Simplified Navigation & Course Progression**  
+## **i. UI/UX Enhancements – Simplified Navigation & Course Progression**  
 ### **Problem:**  
 - Users find navigation between sections confusing, especially when switching from the Exchange section to their learning dashboard.  
 - The mastery-based learning structure lacks clear **progress tracking visuals**, leading to frustration about where they stand in a course.  
@@ -85,7 +86,7 @@ Enhance the Exchange section with:
 
 ---
 
-## **2. User Engagement & Retention – Social Learning & AI-Powered Customization**  
+## **ii. User Engagement & Retention – Social Learning & AI-Powered Customization**  
 ### **Problem:**  
 - Community engagement (Exchange section) sees **low repeat participation** due to a lack of incentives.  
 - No **personalized learning paths**—users often feel overwhelmed with content that isn’t relevant to their pace or goals.  
@@ -98,7 +99,7 @@ Enhance the Exchange section with:
 
 ---
 
-## **3. Monetization Optimization – Smarter Earning & Spending of Auro Coins**  
+## **iii. Monetization Optimization – Smarter Earning & Spending of Auro Coins**  
 ### **Problem:**  
 - Auro Coins lack **real perceived value**, leading to low motivation for users to earn them.  
 - Users can’t **convert Coins into real-world benefits**, making the E-Monetization system feel artificial.  
