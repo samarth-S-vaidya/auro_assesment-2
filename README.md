@@ -27,7 +27,7 @@ Enhance the Exchange section with:
 - **Encourages social learning** through challenges and mentorship.  
 - **Reduces response delays** using AI-driven nudges for active users.  
 - **Creates a competitive yet collaborative environment** with gamification elements.  
-
+- **Enhances usability with better filtering and quick submission features.
 ---
 
 ## **User Journey:**  
