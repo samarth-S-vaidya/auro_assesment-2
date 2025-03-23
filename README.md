@@ -18,7 +18,8 @@ Enhance the Exchange section with:
 3. **Peer-to-Peer Challenges** – Allow users to challenge peers to quizzes, coding problems, or knowledge tests, fostering active engagement.  
 4. **Mentorship Program** – Connect top contributors with learners in need of guidance, creating a tiered support system.  
 5. **Real-time Response Incentives** – Reward users who provide helpful answers within a specific timeframe.  
-
+6. **Filter Option – Add filters to sort comments based on time, alphabet, relevance, course, etc., improving content discoverability.
+7. **Assessment Submission Button – Include a quick assessment submission button for users to easily submit their assessments. 
 ---
 
 ## **Justification:**  
